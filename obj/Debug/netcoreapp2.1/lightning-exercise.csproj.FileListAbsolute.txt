@@ -1,0 +1,11 @@
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\bin\Debug\netcoreapp2.1\lightning-exercise.deps.json
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\bin\Debug\netcoreapp2.1\lightning-exercise.runtimeconfig.json
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\bin\Debug\netcoreapp2.1\lightning-exercise.runtimeconfig.dev.json
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\bin\Debug\netcoreapp2.1\lightning-exercise.dll
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\bin\Debug\netcoreapp2.1\lightning-exercise.pdb
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\obj\Debug\netcoreapp2.1\lightning-exercise.csprojAssemblyReference.cache
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\obj\Debug\netcoreapp2.1\lightning-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\obj\Debug\netcoreapp2.1\lightning-exercise.AssemblyInfoInputs.cache
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\obj\Debug\netcoreapp2.1\lightning-exercise.AssemblyInfo.cs
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\obj\Debug\netcoreapp2.1\lightning-exercise.dll
+C:\Users\Robert\workspace\csharp\excercises\lightning-exercise\obj\Debug\netcoreapp2.1\lightning-exercise.pdb
